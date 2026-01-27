@@ -1,7 +1,6 @@
 js-> https://www.geeksforgeeks.org/javascript/javascript-interview-questions/
 
-
-
+system design->https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf
 
 
 
