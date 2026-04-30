@@ -1,5 +1,7 @@
 js-> https://www.geeksforgeeks.org/javascript/javascript-interview-questions/
 
+https://javascript.info/
+
 system design->https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf
 
 gsoc project idea : - https://github.com/CircuitVerse/CircuitVerse/wiki/GSoC%2726-Project-List#project-6-enterprise--institutional-organization-features
